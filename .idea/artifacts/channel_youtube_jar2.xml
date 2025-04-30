@@ -1,0 +1,44 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="channel-youtube:jar2">
+    <output-path>$PROJECT_DIR$/classes/artifacts/channel_youtube_jar2</output-path>
+    <root id="archive" name="channel-youtube.jar">
+      <element id="module-output" name="channel-youtube" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/httpclient-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20090211/json-20090211.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20190722/json-20190722.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jersey-core-1.8-ea02.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jersey-client-1.8-ea02.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jettison-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jersey-json-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/es-dms-server.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/httpcore-4.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/kvlists.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openmediaprotocol.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jose4j-0.6.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-api-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../instagram-dm-cloud/target/youtube-sdr-cloud.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-simple-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/protocol.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/instagram-sdr-cloud.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar" path-in-jar="/" />
+      <element id="artifact" artifact-name="channel-youtube:jar" />
+      <element id="library" level="module" name="commons.jar" module-name="channel-youtube" />
+      <element id="library" level="module" name="kvlists.jar" module-name="channel-youtube" />
+      <element id="library" level="module" name="openmediaprotocol.jar" module-name="channel-youtube" />
+      <element id="library" level="module" name="protocol.jar" module-name="channel-youtube" />
+      <element id="library" level="module" name="es-dms-server.jar" module-name="channel-youtube" />
+      <element id="library" level="project" name="jersey-core-1.8-ea02" />
+      <element id="file-copy" path="$PROJECT_DIR$/httpclient-4.5.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/httpcore-4.4.4.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slf4j-api-1.7.26.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jose4j-0.6.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slf4j-simple-1.6.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/instagram-sdr-cloud.jar" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/json/json/20090211/json-20090211.jar" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/json/json/20190722/json-20190722.jar" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../instagram-dm-cloud/target/youtube-sdr-cloud.jar" />
+    </root>
+  </artifact>
+</component>
